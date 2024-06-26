@@ -32,19 +32,6 @@ To utilize the skin cancer prediction system, ensure all dependencies listed in 
 
 Through model training and evaluation, we achieved an accuracy of 97.56% in predicting skin cancer. This high level of accuracy demonstrates our predictive model's effectiveness in identifying potential skin cancer instances.
 
-## Contributors
-
-This project was a collaborative effort by a team of dedicated individuals, including:
-
-- [Ansh Prakash](https://github.com/anshprakash6397)
-- [Tanisha Chandani](https://github.com/tanishachandani)
-- [AmulGupta](https://github.com/Amulgupta)
-- [Sanskriti](https://github.com/SanskritiHub)
-- [Sanskar Sinha](https://github.com/sanskar9067)
-- [Abhishek Kumar](https://github.com/AbhishekKumar4543)
-- [Aviral Pandey](https://github.com/Aviralpandey26)
-- [Munish Thakur](https://github.com/Munish28)
-- [Harsh Pratap Singh](https://github.com/ihharsh)
 
 ## Requirements
 
