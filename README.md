@@ -32,7 +32,10 @@ To utilize the skin cancer prediction system, ensure all dependencies listed in 
 
 Through model training and evaluation, we achieved an accuracy of 97.56% in predicting skin cancer. This high level of accuracy demonstrates our predictive model's effectiveness in identifying potential skin cancer instances.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> a657e45 (t)
 ## Requirements
 
 Make sure to have the following dependencies installed:
