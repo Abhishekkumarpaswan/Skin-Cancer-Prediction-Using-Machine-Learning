@@ -54,4 +54,4 @@ Make sure to replace `pip install` with `pip3 install` if you're using Python 3.
 ### Base Paper
 
 The inspiration for our project and the base paper we referred to as "Skin Cancer Prediction Using Deep Learning Techniques". You can find the paper [here](https://ieeexplore.ieee.org/abstract/document/10126035/authors#authors).
-# Final_year_project
+# Skin Cancer Prediction
